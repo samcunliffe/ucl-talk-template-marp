@@ -13,12 +13,15 @@ style: |
 
 <br/><br/><br/><!-- aesthetic vspace so the title isn't too close to the UCL banner -->
 
+<!-- if html tags appear then: https://github.com/marp-team/marpit/issues/178#issuecomment-511106762 -->
+
+
 # Title of the talk
 
 First Author¹, Second Author²
 
 ¹Centre for Advanced Research Computing, UCL.
-¹Department of Collaborators, UCL.
+²Department of Collaborators, UCL.
 
 Conference, Location. 202Y-MM-DD.
 
@@ -76,7 +79,7 @@ Example of something centred.
 ```py
 
 def i_prefer_python() -> None
-    print("Obiously I use type hints")
+    print("Obviously, I use type hints")
     return
 
 ```
@@ -112,7 +115,7 @@ $$
 
 # Conclusions
 
-- One or two clear takehome points.
+- One or two clear take-home points.
 - Don't overload your audience.
 
 ---
