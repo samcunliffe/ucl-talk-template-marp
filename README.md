@@ -1,6 +1,6 @@
 # UCL talk template with [marp](https://marp.app/)
 
-This is my very minimalist template for UCL talks using [marp](https://marp.app/)/[marpit](https://marpit.marp.app/).  Anyone in UCL is welcome to use the template! If you're not from UCL then please remove the UCL branding. (But at that point, you're just using the default theme!) Anything else (code, infrastructure, etc) is [MIT](./LICENSE.md).
+This is my very minimalist template for UCL talks using [marp](https://marp.app/)/[marpit](https://marpit.marp.app/).  Anyone in UCL is welcome to use the template! If you're not from UCL then please remove the UCL branding. (But at that point, you're just using the default theme!) Anything else (code, infrastructure, etc) is freely reuseable under [MIT-0](./LICENSE.md).
 
 ## How to use this template
 
