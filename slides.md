@@ -41,9 +41,13 @@ footer: F. Author, 202Y-MM-DD.
 
 # Slide with bullets that appear
 
+<!-- prettier-ignore-start -->
+
 * I appear...
 * Then I appear...
 * Then **I** appear 🎉!
+
+<!-- prettier-ignore-end -->
 
 ---
 
@@ -94,6 +98,10 @@ int butWillWriteCppIfNeeded()
 ```
 
 ---
+
+<!--
+_footer: the footer is different on this slide only
+-->
 
 # Emoji are cool
 
