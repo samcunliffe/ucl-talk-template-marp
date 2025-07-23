@@ -10,7 +10,7 @@ This is my very minimalist template for UCL talks using [marp](https://marp.app/
     - Follow the excellent [marpit](https://marpit.marp.app/image-syntax) docs for inserting images and backgrounds and split screens etc. Put images in the [assets](./assets) folder.
     - I recommend the [marp-vscode extension](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) if you use Visual Studio Code.
 
-3. If you push to GitHub there is a [workflow](.github/workflows/marp.yml) to automatically build the talk with [marp-cli](https://github.com/marp-team/marp-cli) and publish the result to a `gh-pages` branch.
+3. If you push to GitHub there is a [workflow](.github/workflows/marp.yml) to automatically build the talk with [marp-cli](https://github.com/marp-team/marp-cli) and publish the result to a [GitHub pages](https://docs.github.com/en/pages).
     - Go to the repo settings and enable GitHub pages ([follow from step 5 of these instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)), you should then see your slides at `https://yourusername.github.io/name-of-your-talk-repo`.
 
  If you're not ready or don't want to publish your talk then don't do the final steps.
